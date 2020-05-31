@@ -1,0 +1,4 @@
+﻿  Hramov_Homework№5.cpp
+C:\Users\Кирил\source\repos\Hramov_Homework№5\Hramov_Homework№5\Hramov_Homework№5.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирил\source\repos\Hramov_Homework№5\Hramov_Homework№5\Hramov_Homework№5.cpp(61,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Hramov_Homework№5.vcxproj -> C:\Users\Кирил\source\repos\Hramov_Homework№5\Debug\Hramov_Homework№5.exe
